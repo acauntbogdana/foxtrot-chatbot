@@ -1,0 +1,20 @@
+torch>=2.0.0
+transformers>=4.35.0
+sentence-transformers>=2.2.0
+faiss-cpu>=1.7.0
+pandas>=2.0.0
+openpyxl>=3.1.0
+numpy>=1.24.0
+gradio>=4.40.0
+accelerate>=0.24.0
+
+
+# Дополнительные зависимости для математических операций
+scipy>=1.10.0
+tqdm>=4.65.0
+
+# Для обработки дат и JSON
+python-dateutil>=2.8.0
+
+# Оптимизации (опционально)
+ninja>=1.11.0
